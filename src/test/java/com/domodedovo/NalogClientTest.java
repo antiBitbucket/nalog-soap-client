@@ -1,3 +1,5 @@
+package com.domodedovo;
+
 import com.domodedovo.NalogClient;
 import com.domodedovo.unisoft.ws.fnsndscaws2.request.NdsRequest2.NP;
 import com.domodedovo.unisoft.ws.fnsndscaws2.response.NdsResponse2;
